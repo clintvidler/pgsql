@@ -1,0 +1,14 @@
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# mysql files
+.dbdata
+
+# IDE
+.idea
+
+# system files
+.DS_Store
+Thumbs.db
